@@ -1,0 +1,5 @@
+/bazel-*
+node_modules
+
+# Output file if running `bazel run //package-1:bin`
+uppercase.txt

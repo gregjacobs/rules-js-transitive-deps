@@ -1,0 +1,5 @@
+.git
+.vscode
+node_modules
+package-0/node_modules
+package-1/node_modules
